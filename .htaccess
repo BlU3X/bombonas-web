@@ -1,0 +1,5 @@
+Options -Indexes
+
+ErrorDocument 403 /bombonas/public/denied_access.php
+ErrorDocument 404 /bombonas/public/not_found.php
+

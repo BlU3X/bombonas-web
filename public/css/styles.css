@@ -1,0 +1,55 @@
+
+body{
+    background-color: #2f353c;
+    color: #d2946e;
+}
+
+.principal{
+    padding-top: 5%;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #ff9859;
+    border-color: #ff9859;
+}
+
+.nuevaBombona{
+    float: right;
+    margin-bottom: 5px
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #e2844b;
+    border-color: #e2844b;
+}
+
+.progress-bar {
+    color: #000;
+    font-weight:bold;
+}
+
+.table-bordered,.table-bordered td, .table-bordered th , .table-bordered tr {
+    border: 0px solid #e9ecef;
+}
+
+.first{
+    width: 15%;
+    text-align: center;
+}
+.mid{
+    text-align: center;
+    vertical-align: middle !important;
+}
+.last{
+    width: 10%;
+    text-align: center;
+}
+
+.registro{
+    margin-top: 50px;
+}
+
+span{
+    font-weight: bold;
+}
+
